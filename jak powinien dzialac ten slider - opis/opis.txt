@@ -1,0 +1,16 @@
+podsylam png 
+
+i
+
+tak jak pisalem, nie mam dostepu do animacji,
+ wiec po prostu moj slider ktory ja zdolalem zrobic to prosta zmiana obrazu po kliknieciu strzałek
+  (taka teleportacja jakby, a to niepowinno tak wygladac)
+   a on musi jednak wyglądać tak zeby przejscie bylo na jakims transition - 0.2s np
+    i przedewszystkim zeby bylo widac po dwóch stronach te 2 samochody (tak ok. 30% wystajace ich calej dlugosci tak jak na obrazku) 
+    i zeby byly one o lekiej przezroczystości 
+    i zeby to tez sie zmieniala ta przezroczystosc z zalozmy 50% opacity na 100% transitionem 0.2s
+     jesli auto przejdzie na środek, bo oni chca zeby to dawalo fajny wizualny efekt, wsumie sie im nie dziwie
+
+ps. na buttony i tekst i inne detale nie zwracaj uwagi to juz wiem jak ogarnąć ;p, chodzi tylko o te przejscie i efekt tych samochodów
+
+pzdr
